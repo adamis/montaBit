@@ -130,7 +130,7 @@ public class MontaBit extends JInternalFrame implements ShowHideInterface{
 
 			}
 		});
-		btnNewButton.setBounds(368, 412, 89, 30);
+		btnNewButton.setBounds(368, 412, 108, 30);
 		getContentPane().add(btnNewButton);
 
 		JButton btnNewButton_1 = new JButton("Adicionar");
