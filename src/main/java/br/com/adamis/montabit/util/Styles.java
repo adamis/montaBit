@@ -4,7 +4,6 @@ package br.com.adamis.montabit.util;
 import javax.swing.LookAndFeel;
 import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 
-@SuppressWarnings("restriction")
 public class Styles {
 	// public static LookAndFeel style = new Plastic3DLookAndFeel(); //Plastic 3D	
 	public static LookAndFeel style = new NimbusLookAndFeel(); // NIMBUS
